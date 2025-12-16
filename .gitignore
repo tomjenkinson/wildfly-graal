@@ -39,3 +39,17 @@ reflective-dump/
 reports/
 /deployment-src/helloworld/target/
 /deployment-src/custom-module/target/
+quickstart/
+undertow/
+wildfly-core/
+wildfly/
+xnio/
+jboss-remoting/
+wildfly-elytron/
+jboss-msc/
+jspc/
+run.out
+
+galleon-6.1.1.Final.zip
+galleon-6.1.1.Final/
+graalvm-jdk-25.0.1+8.1/

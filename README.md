@@ -110,7 +110,7 @@ cd ../../../..
 cd deployment-src/custom-module;mvn clean install;cd ../..
 ```
 
-Add to standalone.xml:
+Add to min-core-server/standalone/configuration/standalone.xml:
 
 ```
     <deployments>
@@ -121,6 +121,8 @@ Add to standalone.xml:
 ```
 
 ## Remove content from the server config
+
+From min-core-server/standalone/configuration/standalone.xml
 
 * Elytron:
 
